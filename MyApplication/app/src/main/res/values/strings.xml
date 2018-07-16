@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="new_version">目前已经是最新版本</string>
+    <string name="discover_version">发现软件有新版本，是否现在升级</string>
+    <string name="later">以后再说</string>
+    <string name="update_now">立即升级</string>
+</resources>
